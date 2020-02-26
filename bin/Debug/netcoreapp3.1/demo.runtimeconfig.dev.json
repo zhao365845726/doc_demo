@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/mltechnology/.dotnet/store/|arch|/|tfm|",
+      "/Users/mltechnology/.nuget/packages"
+    ]
+  }
+}
